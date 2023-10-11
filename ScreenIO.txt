@@ -1,0 +1,45 @@
+**********************************************
+* PROGRAMMED BY : Saul Moreno
+* STUDENT ID    : 269491
+* CLASS         : CS 1B MW-7:30pm
+* ASSIGNMENT #2 : Employee-inheritance
+***********************************************
+
+This Program will display the Data for the C1SCE Employee, The Programmers
+and Software Architects. It will display all other pertinent data
+
+Data:
+C1SCEmployees
+
+These two examples are me just setting the employee's information automatically
+Name           Employee's Id Phone         Age  Gender Job Title       Salary    Date    
+Tom Brady      12345         949-555-1234  42   M      Quarterback     $8000000   8/31/2018
+Aaron Rogers   12346         310-555-5555  36   M      Quarterback     $777123    05/08/2019
+
+This one is me manually changing the employee's information
+Tom Rogers     354534        959-432-4325  69   F      Person          $0         12-12-12
+
+Back to the information being added automatically
+
+Oprah Winfrey  98765         730-703-1234  64   F      Talk Show Host  $9900000   12/25/2017
+Sally Designer 77777         203-555-6789  36   M      Comedian        $500500    03/01/2012
+
+Programmers:
+
+Name           Employee's Id Phone         Age  Gender Job Title       Salary    Date    
+Sam Software   54321         819-123-4567  21   M      Programmer      $223000    12/24/2017
+Mary Coder     65432         310-555-5555  28   F      Programmer      $770123    02/08/2019
+
+Name           Department    Supervisor Name   Raise % C++ Knowledge   Java Knowledge
+Sam Software   5432122       Joe Boss          4       Yes             No            
+Mary Coder     6543222       Mary Leader       7       Yes             Yes           
+
+SoftWare Architects
+
+Name           Employee's Id Phone         Age  Gender Job Title       Salary    Date    
+Alex Arch      88888         959-353-3243  21   M      Architect       $231243    12/12/12
+Sally Dsigner  87878         310-555-8888  38   F      Architect       $870123    12/12/13
+
+This one is me manually changing the employee's information
+Name           Department    Supervisor Name  Raise Years of Experience
+Alex Arch      4545          Nobody Cares     -45   3   
